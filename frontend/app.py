@@ -14,11 +14,18 @@ st.title("📄 Resume Parser AI")
 st.markdown("**Production-ready resume parsing with AI**")
 
 # Sidebar with API config
-st.sidebar.header("🔧 API Settings")
+# st.sidebar.header("🔧 API Settings")
+# api_url = st.sidebar.text_input(
+#     "API URL", 
+#     value="http://127.0.0.1:8000",
+#     help="Local server for testing"
+# )
+
+#Update Frontend for Production(Railway Deployment)
 api_url = st.sidebar.text_input(
     "API URL", 
-    value="http://127.0.0.1:8000",
-    help="Local server for testing"
+    value=st.secrets.get("API_URL", "https://resume-parser-ai-xxx.railway.app"),  # ← YOUR RAILWAY URL
+    help="Backend API (Railway)"
 )
 
 if api_url:
