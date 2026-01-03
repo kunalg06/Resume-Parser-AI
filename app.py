@@ -22,11 +22,8 @@ st.markdown("**Production-ready resume parsing with AI**")
 # )
 
 #Update Frontend for Production(Railway Deployment)
-api_url = st.sidebar.text_input(
-    "API URL", 
-    value=st.secrets.get("API_URL", "https://resume-parser-ai-xxx.railway.app"),  # ← YOUR RAILWAY URL
-    help="Backend API (Railway)"
-)
+api_url = st.secrets.get("API_URL", "https://resume-parser-ai-xxx.railway.app")
+st.caption(f"🔗 Backend: {api_url}")
 
 if api_url:
     st.sidebar.success(f"✅ Connected to {api_url}")
