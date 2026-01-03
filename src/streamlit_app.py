@@ -22,7 +22,7 @@ st.markdown("**Production-ready resume parsing with AI**")
 # )
 
 #Update Frontend for Production(Railway Deployment)
-api_url = st.secrets.get("API_URL", "https://resume-parser-ai-xxx.railway.app")
+api_url = os.getenv("API_URL", "http://127.0.0.1:8000")
 st.caption(f"🔗 Backend: {api_url}")
 
 if api_url:
