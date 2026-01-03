@@ -1,0 +1,59 @@
+KUNAL GAIKWAD
+8928008966 | LinkedIn
+Kunal.gaikwad06@outlook.com
+
+SUMMARY
+Accomplished Python Developer & AI/ML Engineer with 5+ years of total experience designing, developing, and deploying end-to-end AI/ML solutions using Python, NLP frameworks, LLMs, and cloud technologies. Proven expertise in agentic AI workflows, LLM integration, and production-grade ML systems across insurance, computer vision, NLP, and data analytics domains. Strong background in Python development, ML pipeline architecture, and cross-functional collaboration to translate complex business requirements into scalable, high-impact AI solutions. Familiar with .NET environments and comfortable in polyglot tech stacks.
+
+WORK EXPERIENCE 
+Freelance AI Engineer | Borehamwood, UK				     October 2023 – October 2025
+•	Developed RAG-based Question Answering System: Built a production-grade retrieval-augmented generation (RAG) system integrating transformer-driven NLP models, semantic search, and LLM APIs, improving query response accuracy by 35% and reducing manual information lookup time by 40%.
+•	NLP Resume Parser: Engineered an end-to-end NLP solution using SpaCy and Python for automated resume parsing and data extraction, reducing manual HR data entry time by 60% and improving extraction accuracy to 94%.
+•	CNN-based Plant Species Identification: Designed and trained a deep learning computer vision model (CNN), achieving 92%+ accuracy for automated plant species classification, supporting environmental research initiatives and contributing to domain-specific ML best practices.
+•	Agentic AI Workflows (GenAI): Prototyped and implemented multi-step agentic AI solutions that orchestrate LLM calls with tool/API integration for complex, multi-turn reasoning tasks, exploring frameworks and patterns for autonomous AI agents.
+Amazon | FC Associate | Doncaster, UK						 July 2024 – October 2025
+•	Managed large-scale inbound and outbound operations, optimizing process efficiency by 25%.
+•	Ensured 100% accuracy in shipment processing, packaging, and logistics under high-demand conditions.
+•	Streamlined inventory operations through systematic stowing and safe handling protocols.
+Research Associate – Sports Engineering Research Group, UK                                   Jul 2023 – Oct 2023
+•	Developed high-accuracy pose estimation models using YOLO and AutoML pipelines, improving accuracy by 92%.
+•	Optimized ML workflows with ROI-based algorithms, reducing processing time by 25%.
+•	Coordinated with project leads, maintaining detailed reporting and documentation for stakeholder visibility.
+Machine Learning Engineer – Quantiphi Analytics Pvt Ltd, India                               May 2021 – Aug 2022
+•	Led end-to-end development and deployment of AI/ML solutions for insurance claim processing, improving pipeline efficiency by 80%.
+•	Designed and trained NLP models (BERT/LLM) for automated adjudication, increasing claim processing accuracy by 68%.
+•	Collaborated with cross-functional teams and stakeholders to gather requirements and translate them into technical solutions.
+•	Conducted peer code reviews, enforcing best practices in code quality, scalability, and security.
+•	Mentored junior data scientists and promoted adoption of best practices in ML development.
+Software Engineer, Winjit Technologies Pvt Ltd, India                                                Aug 2018 – Apr 2021
+•	Developed and deployed scalable computer vision and NLP solutions for enterprise clients (e.g., Mahindra & Mahindra), achieving 50% revenue growth and reducing errors to 5%.
+•	Implemented AI pipelines using Python, OpenCV, TensorFlow, PyTorch, and deployed solutions on AWS cloud.
+•	Led research initiatives on advanced ML models and mentored team members to deliver high-quality AI solutions.
+EDUCATION
+Sheffield Hallam University, Sheffield, UK (Sept 2023)
+MSc. In Artificial Intelligence
+•	Specialized in machine learning, NLP, large language models, and AI product implementation.
+•	Proficient in Python development, fine-tuning LLMs, and using LangChain for Retrieval-Augmented Generation solutions.
+Sinhgad College of Engineering, Pune (Jun 2018)
+Bachelor's in Information Technology 
+•	Solid foundation in Python, machine learning libraries, data structures, Git, and database management systems.
+•	Knowledge of computer networks, OS, software engineering principles, ethical AI, and reinforcement learning.
+
+TECHNICAL SKILLS
+•	Programming & ML Frameworks: Python, TensorFlow, PyTorch, Keras, scikit-learn, HuggingFace Transformers, NLTK, SpaCy
+•	Cloud & Deployment: AWS (EC2, S3, SageMaker), Azure, GCP, Docker, REST APIs
+•	AI/ML Solutions: End-to-end ML pipeline design, NLP, LLMs, predictive modelling, computer vision, OCR
+•	Data Analytics & Visualisation: Pandas, NumPy, Seaborn, Matplotlib, Plotly, PowerBI, Tableau
+•	Project & Team Management: Agile, Jira, Trello, mentoring, stakeholder collaboration
+INTERPERSONAL SKILLS
+•	Cross-functional team leadership and mentoring
+•	Strong analytical and problem-solving skills
+•	Strategic decision-making and stakeholder management
+•	Self-motivated, innovative, and organized
+•	Excellent communication and presentation skills
+
+CERTIFICATION	
+•	PGDM in Machine Learning and AI - IIIT Bangalore, India (June 2021)
+•	IBM Data Analyst Professional Certificate – Coursera (2024)
+•	IBM Generative AI for Data Scientists Specialisation – Coursera (2024)
+•	Continuous learning: Latest LLM developments, agentic AI frameworks, and production ML best practices
