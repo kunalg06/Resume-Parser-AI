@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import json
 from io import BytesIO
-
+import os
 # Page config
 st.set_page_config(
     page_title="Resume Parser AI", 
