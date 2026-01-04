@@ -23,7 +23,7 @@ Frontend: Streamlit
 
 ### Local Development
 
-```bash
+
 git clone https://github.com/kunalg06/Resume-Parser-AI
 cd Resume-Parser-AI
 
