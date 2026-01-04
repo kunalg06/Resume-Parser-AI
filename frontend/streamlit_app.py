@@ -49,7 +49,7 @@ with col2:
             with st.spinner("AI parsing your resume..."):
                 try:
                     # Send to your API
-                    files = {"file": uploaded_file.getvalue()}
+                    files = {"file": (uploaded_file.name, uploaded_file.getvalue())}
                     response = requests.post(
                         f"{api_url}/parse",
                         files=files,

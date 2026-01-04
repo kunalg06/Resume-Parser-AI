@@ -18,8 +18,6 @@
 ## 🏗️ Tech Stack
 Backend: FastAPI + Perplexity LLM + pdfplumber
 Frontend: Streamlit
-Deployment: Railway + Hugging Face Spaces
-
 
 ## 🚀 Quick Start
 
@@ -73,22 +71,6 @@ Sample Response:
   ]
 }
 
-
-🛠️ Deployment
-Backend (Railway)
-Push to GitHub
-
-Railway → New Project → Connect repo
-
-Add env var: PERPLEXITY_API_KEY=your_key
-
-Frontend (Hugging Face Spaces)
-Create Space → Streamlit template
-
-Upload frontend/ folder
-
-Add secret: api_url = https://your-railway-url
-
 🤔 Why LLM-based Parsing?
 Context-aware - Understands natural language
 
@@ -116,17 +98,6 @@ Portfolio - Production ML system demo
 | ------------------ | -------- | ------------------- |
 | PERPLEXITY_API_KEY | ✅        | Perplexity API key  |
 | OPENAI_API_KEY     | ❌        | Fallback (optional) |
-
-🏆 Cold Outreach Template
-text
-Hi [Hiring Manager],
-
-Just shipped a production ML API that parses resumes with LLMs:
-https://github.com/kunalg06/Resume-Parser-AI
-
-FastAPI + Perplexity + deployed on Railway. Would love to discuss [Role].
-
-Kunal | MSc AI | 5+ yrs ML
 
 📄 License
 MIT License - see LICENSE
